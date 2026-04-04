@@ -1,3 +1,0 @@
-This is the second file.
-It has some sample text.
-End of file two.
