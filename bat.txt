@@ -1,3 +1,0 @@
-This is the third file.
-More example content here.
-End of file three.
